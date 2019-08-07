@@ -1,0 +1,21 @@
+{
+    "dog":[{
+        "breed":"Labrador",
+        "color": "white",
+        "weight": "30kg",
+        "image":"assets/images/dog/image1.jpeg"
+    },
+    {
+        "breed": "Pug",
+        "color": "White",
+        "weight": "29-36kg",
+        "image": "assets/images/dog/image2.jpg"
+    },
+    {
+        "breed": "German Shepherd",
+        "color": "Black",
+        "weight": "45-73kg",
+        "image": "assets/images/dog/image3.jpg"
+    }
+]
+}

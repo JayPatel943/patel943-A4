@@ -1,0 +1,24 @@
+{
+	"cat": [{
+			"breed": "American Curl",
+			"color": "Black",
+			"origin": "USA",
+			"height": "short",
+			"image": "assets/images/horse/image1.jpeg"
+		},
+		{
+			"breed": "Foldex",
+			"color": "White",
+			"origin": "Canada",
+			"height": "short",
+			"image": "assets/images/horse/image2.jpg"
+		},
+		{
+			"breed": "York Chocolate",
+			"color": "Black",
+			"origin": "USA",
+			"height": "Long",
+			"image": "assets/images/horse/image3.jpg"
+		}
+	]
+}
